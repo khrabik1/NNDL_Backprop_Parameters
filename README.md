@@ -23,6 +23,7 @@ Fall 2018
 	-	update_mini_batch()
 	-	total_cost()
 	-	any others necessary to implement dropout
+		/*Note dropout needs update*/
 
 
 -	Notes
